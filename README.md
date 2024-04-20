@@ -17,17 +17,8 @@ Este é um projeto de implementação básica de uma blockchain em Java, criado 
    ```bash
    git clone https://github.com/seu_usuario/sua_blockchain.git
 
-2. Navegue até o diretório do projeto:
+2. Abra o projeto no IntelliJ IDEA.
 
-   ```bash
-   cd caio-coin
+3. Navegue até a classe Main.java.
 
-3. Compile o projeto:
-
-   ```bash
-   mvn compile
-
-4. Clone o repositório:
-
-   ```bash
-   mvn exec:java -Dexec.mainClass="CaioChain"
+4. Execute a classe Main.java clicando com o botão direito do mouse dentro dela e selecionando Run Main.main().
